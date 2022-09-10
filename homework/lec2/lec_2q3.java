@@ -35,4 +35,5 @@ Table of input Number is:
 56
 63
 70
+
 */
